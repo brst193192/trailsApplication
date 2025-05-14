@@ -1,0 +1,6 @@
+@TRAILS_SITE_SERVER_HostAddress = http://localhost:5134
+
+GET {{TRAILS_SITE_SERVER_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

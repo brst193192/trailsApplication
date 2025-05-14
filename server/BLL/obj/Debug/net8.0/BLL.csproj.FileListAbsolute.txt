@@ -1,0 +1,68 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\ref\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\ref\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\ref\BLL.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\BLL.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DAL.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\bin\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\BLL\obj\Debug\net8.0\ref\BLL.dll

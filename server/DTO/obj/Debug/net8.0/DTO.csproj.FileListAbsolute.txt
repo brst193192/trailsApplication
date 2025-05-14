@@ -1,0 +1,44 @@
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\refint\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.pdb
+D:\תכנות\שנה ב\C#\שיעורי בית\שרת לאתר מתכונים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\ref\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.deps.json
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\refint\DTO.dll
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\שיעורי בית\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\ref\DTO.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.deps.json
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\bin\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\refint\DTO.dll
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\DTO.pdb
+E:\תכנות\שנה ב\C#\פרוייקטים\פרוייקט טיולים\TRAILS_SITE_SERVER\DTO\obj\Debug\net8.0\ref\DTO.dll
